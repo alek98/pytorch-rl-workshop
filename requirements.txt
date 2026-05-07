@@ -1,0 +1,9 @@
+gymnasium[classic-control,toy-text]
+numpy
+stable-baselines3
+torch
+torchvision
+matplotlib
+tqdm
+ipython
+notebook
