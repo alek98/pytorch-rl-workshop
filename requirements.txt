@@ -1,4 +1,4 @@
-gymnasium[classic-control,toy-text]
+gymnasium
 numpy
 stable-baselines3
 torch
